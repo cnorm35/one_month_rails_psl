@@ -16,12 +16,12 @@ Once you have a local copy, go into the directory for the example applicaiton wi
 ```
 cd one_month_rails_psl
 ```
-Currently, this application is running Rails 4.1.8.  That seemed to be the version most people had installed.  To see which version you're currently running, just type
+Currently, this application is running Rails 4.1.8.  That seemed to be the version most people had installed.  To see which version you're currently running, just type the following into your command line
 
 ```
 $ rails -v
 ```
-into your command line.  If you need to install the specific version. run:
+If you need to install the specific version. run:
 
 ```
 gem install rails -v 4.1.8 --no-ri --no-rdoc
@@ -40,3 +40,5 @@ You may also need to run
 $ rake db:migrate
 ```
 to make sure the database schema is up to date.
+
+If anyone has anything they'd like me to add or something I missed, submit a pull request.
