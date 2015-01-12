@@ -1,4 +1,4 @@
-== README
+### One Month Rails with Philly Startup Leaders
 
 This is a code repository for the One Month Rails course through Philly Startup Leaders.
 
